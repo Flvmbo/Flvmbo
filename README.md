@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Chukwuka Ukandu</h1>
-<h3 align="center">Student at Covenant University, Nigeria🌟.</h3>
+<h3 align="center">4th Year Undergraduate Student at Covenant University, Nigeria🌟.</h3>
 
 <br>
 
