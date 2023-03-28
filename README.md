@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Flvmbo/Flvmbo/blob/main/animation_500_kxa883sd.gif" alt="flvmbo" /></p>
+<p><img align="right" src="https://github.com/Flvmbo/Flvmbo/blob/main/coding-animation.gif" alt="flvmbo" /></p>
 
 <br>
 
